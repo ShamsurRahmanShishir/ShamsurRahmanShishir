@@ -8,10 +8,10 @@
 
 <p align="left"> <a href="https://twitter.com/@shamsurrahmans2" target="blank"><img src="https://img.shields.io/twitter/follow/@shamsurrahmans2?logo=twitter&style=for-the-badge" alt="@shamsurrahmans2" /></a> </p>
 
-- 🔭 I’m currently working on **an Embedded system
+- 🔭 I’m currently working on **Embedded system **
 - **
 
-- 🌱 I’m currently learning **Data science**
+- 🌱 I’m currently learning ** Embedded System engineering **
 
 - 👨‍💻 All of my projects are available at [https://srsprofile.pythonanywhere.com/#top](https://srsprofile.pythonanywhere.com/#top)
 
