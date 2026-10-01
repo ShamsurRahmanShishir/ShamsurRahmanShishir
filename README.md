@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm MD.ShamsurRahmanShishir</h1>
 <img align="right" alt="Coding" width="400" src="https://www.iss.nus.edu.sg/images/default-source/default-album/software-dev.jpg?Status=Master&sfvrsn=aa8aa05f_0">
-<h3 align="center">A passionate Django developer and an electrical engineer from Bangladesh</h3>
+<h3 align="center">A passionate  electrical engineer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shamsurrahmanshishir&label=Profile%20views&color=0e75b6&style=flat" alt="shamsurrahmanshishir" /> </p>
 
