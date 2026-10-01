@@ -4,7 +4,7 @@
 
 <p align="center">
   <b>Building useful software. Exploring the hardware behind it.</b><br />
-  Django developer · Electrical engineer · Embedded systems enthusiast<br />
+  · Electrical engineer · Embedded systems enthusiast<br />
   Bangladesh
 </p>
 
