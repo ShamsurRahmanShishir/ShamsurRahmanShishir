@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-labelledby="title desc">
+  <title id="title">MD. Shamsur Rahman Shishir</title>
+  <desc id="desc">Django developer and electrical engineer. A navy banner with cyan circuit paths.</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0b1120"/><stop offset="1" stop-color="#172554"/></linearGradient>
+    <linearGradient id="accent"><stop stop-color="#22d3ee"/><stop offset="1" stop-color="#818cf8"/></linearGradient>
+    <pattern id="dots" width="26" height="26" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#94a3b8" opacity=".12"/></pattern>
+  </defs>
+  <rect width="1280" height="360" rx="20" fill="url(#bg)"/>
+  <rect width="1280" height="360" rx="20" fill="url(#dots)"/>
+  <g fill="none" stroke="#22d3ee" stroke-width="2" opacity=".25">
+    <path d="M970 0v65l60 60h250M1100 0v85l-45 45v95h225M1280 280h-165l-65-65h-65v145M1280 55h-95l-30 30v70"/>
+    <circle cx="970" cy="65" r="6"/><circle cx="1055" cy="225" r="6"/><circle cx="985" cy="215" r="6"/>
+  </g>
+  <rect x="64" y="64" width="44" height="4" rx="2" fill="url(#accent)"/>
+  <text x="64" y="110" fill="#67e8f9" font-family="Arial, sans-serif" font-size="15" letter-spacing="4">SOFTWARE / HARDWARE / CURIOSITY</text>
+  <text x="64" y="178" fill="#f8fafc" font-family="Arial, sans-serif" font-size="46" font-weight="700">MD. Shamsur Rahman Shishir</text>
+  <text x="66" y="224" fill="#cbd5e1" font-family="Arial, sans-serif" font-size="23">Django Developer &amp; Electrical Engineer</text>
+  <text x="66" y="282" fill="#94a3b8" font-family="Arial, sans-serif" font-size="17">Python  ·  Django  ·  C++  ·  Embedded Systems</text>
+  <rect y="354" width="1280" height="6" fill="url(#accent)"/>
+</svg>
